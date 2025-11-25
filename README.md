@@ -43,6 +43,12 @@ El proyecto sigue un pipeline riguroso (ver notebooks `01_limpieza.ipynb` a `03_
 * **Etiquetado de Negocio:** Aplicación de una lógica híbrida usando los **Cuartiles (Q1, Q3)** de la variable *Monetary* para asignar etiquetas operativas (`VIP`, `Regular`, `Dormido`).
 
 ---
+## 👤 Contacto
+
+Este proyecto fue desarrollado por **José Miguel Benegas Barua**.  
+
+🔗 **LinkedIn:** [https://www.linkedin.com/in/jos%C3%A9-benegas-barua-b7118223a/]
+📧 **Correo:** [jose.baruabenehas@gmail,com]
 
 ## 🚀 Despliegue y Uso (Streamlit App)
 
@@ -59,13 +65,7 @@ Para ejecutar la aplicación localmente, necesita:
 
 ```bash
 pip install pandas scikit-learn seaborn matplotlib streamlit joblib
-
-## 👤 Contacto
-
-Este proyecto fue desarrollado por **José Miguel Benegas Barua**.  
-
-🔗 **LinkedIn:** [https://www.linkedin.com/in/jos%C3%A9-benegas-barua-b7118223a/]
-📧 **Correo:** [jose.baruabenehas@gmail,com]
+'''
 
 
 
