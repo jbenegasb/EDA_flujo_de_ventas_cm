@@ -1,0 +1,13 @@
+      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
+      964       1     964      30996  cons3     197609 14:30:43 /usr/bin/bash
+      963     891     963      30824  cons2     197609 14:19:25 /c/Users/joseb/AppData/Local/Programs/Python/Python310/Scripts/streamlit
+     1025     964    1025      13348  cons3     197609 14:30:47 /c/Users/joseb/AppData/Local/Programs/Python/Python310/Scripts/streamlit
+     1184    1088    1184      28352  cons5     197609 15:09:58 /usr/bin/PS
+      829       1     829      19680  cons1     197609 14:15:26 /usr/bin/bash
+     1087    1026    1087      22036  cons4     197609 14:37:39 /c/Users/joseb/AppData/Local/Programs/Python/Python310/Scripts/streamlit
+      890     829     890      38488  cons1     197609 14:15:29 /c/Users/joseb/AppData/Local/Programs/Python/Python310/Scripts/streamlit
+     1026       1    1026      27076  cons4     197609 14:37:36 /usr/bin/bash
+      891       1     891      36960  cons2     197609 14:18:25 /usr/bin/bash
+      767       1     767      36376  cons0     197609 14:14:19 /usr/bin/bash
+      828     767     828      34204  cons0     197609 14:14:23 /c/Users/joseb/AppData/Local/Programs/Python/Python310/Scripts/streamlit
+     1088       1    1088      32452  cons5     197609 15:08:05 /usr/bin/bash

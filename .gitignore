@@ -1,0 +1,10 @@
+# --- Generado por ML/Python ---
+*.pkl
+*.ipynb_checkpoints
+__pycache__
+/data/raw/
+/data/processed/
+
+# --- Generado por IDEs/Sistema ---
+.vscode/
+.DS_Store
